@@ -1,5 +1,5 @@
 # FruitStorePOS
-used C# Windows form
+C# Windows form<br>
 2023.06.15 - 2학년 2학기 팀프로젝트(2인1조)
 
 ![image](https://github.com/user-attachments/assets/053a9530-47bd-44f4-910d-a44487fdfa9a)
